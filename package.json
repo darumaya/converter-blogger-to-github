@@ -1,0 +1,16 @@
+{
+  "name": "converter-blogger-to-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "converter.js",
+  "dependencies": {},
+  "devDependencies": {
+    "js-yaml": "^3.2.6",
+    "xml2js": "^0.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@rotsuya",
+  "license": "ISC"
+}
